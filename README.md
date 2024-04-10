@@ -39,3 +39,5 @@
 <h3>Public Relations - 1st Year</h3>
     
 <h2>10. Gourav Mandal </h2>
+<h1>Ankit Kumar</h1>
+<h2>Technical Team Member</h2>
